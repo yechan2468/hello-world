@@ -1,2 +1,2 @@
 # hello-world
-temporary repository
+This is temporary repository, created by Yechan Lee :)
